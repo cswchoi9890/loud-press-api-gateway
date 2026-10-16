@@ -1,0 +1,8 @@
+name = "cloudpress-ai"
+compatibility_date = "2026-05-14"
+
+[assets]
+directory = "./frontend/src/index.html"
+
+[observability]
+enabled = false
